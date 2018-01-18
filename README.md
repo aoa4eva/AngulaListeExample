@@ -1,5 +1,18 @@
 # AngularTour
 
+### Edited by aoa4eva 
+
+This is a modified version of the Tour of Heroes tutorial available on [agular.io](https://angular.io/tutorial)
+
+This project stops at step 5, which separates master/detail components. 
+
+Bindings have been created between DOM elements and Angular components, and the list of heroes is being read from a .ts file. 
+
+Instructions for running, expanding and tesing this application are provided below. 
+
+Have fun!
+-----
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
 ## Development server
